@@ -1,6 +1,7 @@
-### 测试GitHub个人主页
+### 我的GitHub个人主页
 
-测试内容
+
+个人项目之后将会发布在https://github.com/7soft-cn
 
 ### 我在 GitHub 上的统计
 
